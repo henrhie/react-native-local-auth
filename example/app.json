@@ -1,0 +1,22 @@
+{
+  "name": "react-native-local-auth-example",
+  "displayName": "LocalAuth Example",
+  "expo": {
+    "name": "react-native-local-auth-example",
+    "slug": "react-native-local-auth-example",
+    "description": "Example app for react-native-local-auth",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
